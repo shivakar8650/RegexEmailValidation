@@ -1,0 +1,14 @@
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.exe
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.deps.json
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.runtimeconfig.json
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.runtimeconfig.dev.json
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.dll
+C:\Users\prabhakar\source\repos\RegexPatternMaching\bin\Debug\netcoreapp3.1\RegexPatternMaching.pdb
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.csproj.AssemblyReference.cache
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.AssemblyInfoInputs.cache
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.AssemblyInfo.cs
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.csproj.CoreCompileInputs.cache
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.dll
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.pdb
+C:\Users\prabhakar\source\repos\RegexPatternMaching\obj\Debug\netcoreapp3.1\RegexPatternMaching.genruntimeconfig.cache
